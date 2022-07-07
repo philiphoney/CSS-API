@@ -1,0 +1,108 @@
+/* 
+© Developer Web 2022
+
+  Philiphoney https://github.com/philiphoney
+  Version 1.0
+  API https://github.com/philiphoney/API
+  
+  rainbowtext
+  rainbowtext a-0 < 10
+  rainbowtext arial
+  rainbowtext bold
+
+*/
+
+.rainbowtext {
+    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet, #ff0040);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+/* Rainbow Text Animation */
+.rainbowtext.a {
+    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet, #ff0040);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: rainbow-a 500s linear infinite;
+}
+
+.rainbowtext.a-1 {
+    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet, #ff0040);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: rainbow-a 400s linear infinite;
+}
+
+.rainbowtext.a-2 {
+    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet, #ff0040);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: rainbow-a 300s linear infinite;
+}
+
+.rainbowtext.a-3 {
+    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet, #ff0040);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: rainbow-a 200s linear infinite;
+}
+
+.rainbowtext.a-4 {
+    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet, #ff0040);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: rainbow-a 100s linear infinite;
+}
+
+.rainbowtext.a-5 {
+    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet, #ff0040);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: rainbow-a 50s linear infinite;
+}
+
+.rainbowtext.a-6 {
+    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet, #ff0040);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: rainbow-a 40s linear infinite;
+}
+
+.rainbowtext.a-7 {
+    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet, #ff0040);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: rainbow-a 30s linear infinite;
+}
+
+.rainbowtext.a-8 {
+    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet, #ff0040);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: rainbow-a 20s linear infinite;
+}
+
+.rainbowtext.a-9 {
+    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet, #ff0040);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: rainbow-a 10s linear infinite;
+}
+
+.rainbowtext.a-10 {
+    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet, #ff0040);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: rainbow-a 5s linear infinite;
+}
+
+@keyframes rainbow-a {to {background-position: 4500vh;}}
+
+/* Rainbow Text font */
+.rainbowtext.arial {
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+.rainbowtext.bold {
+    font-weight: bold;
+}
