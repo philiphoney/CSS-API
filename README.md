@@ -27,3 +27,5 @@ And now you can use the `md-10` tag to resize the icon
 star
 </span>
 ```
+
+![](https://raw.githubusercontent.com/philiphoney/API/main/public/assets/img/stars.jpg)
