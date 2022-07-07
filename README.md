@@ -23,7 +23,7 @@ As a second step you also link this code in your head `<head>`
 ###
 And now you can use the `md-10` tag to resize the icon
 ```html
-<span class="material-symbols-outlined md-10>
+<span class="material-symbols-outlined md-10">
 star
 </span>
 ```
