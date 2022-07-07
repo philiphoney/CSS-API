@@ -29,3 +29,14 @@ star
 ```
 
 ![](https://raw.githubusercontent.com/philiphoney/API/main/public/assets/img/stars.jpg)
+
+### Icon Color
+You can also change the color of an icon yes the tags are listed here
+- `md-green`
+- `md-blue`
+- `md-red`
+###
+- `md-black`
+- `md-light`
+
+![](https://raw.githubusercontent.com/philiphoney/API/main/public/assets/img/stars-color.jpg)
