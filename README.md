@@ -18,7 +18,7 @@ You need to put this in the head `<head>` firstv
 
 As a second step you also link this code in your head `<head>`
 ```html
-<link rel="stylesheet" href="https://raw.githubusercontent.com/philiphoney/API/main/css-api/google-icon-style.css" />
+<link rel="stylesheet" href="https://developerweb-online.netlify.app/api/google-icon-style.css" />
 ```
 ###
 And now you can use the `md-10` tag to resize the icon
