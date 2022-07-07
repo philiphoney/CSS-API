@@ -1,14 +1,15 @@
 /* 
+© Developer Web 2022
 
-© Philiphoney https://github.com/philiphoney
-  Version 2.0
+  Philiphoney https://github.com/philiphoney
+  Version 3.0
   API https://github.com/philiphoney/API
 
-  With this you can change the color and
-  size of the Google Icons
+  With this you can change the color and 
+  size of the Google Icons 
   (material-symbols-outlined).
 
-  1 = 1000  / md-1
+  1 = 1000  / md-1 / md-color
 
 */
 
@@ -1012,3 +1013,12 @@
 .material-symbols-outlined.md-998 { font-size: 998px; }
 .material-symbols-outlined.md-999 { font-size: 999px; }
 .material-symbols-outlined.md-1000 { font-size: 1000px; }
+
+/* Icon Color RGB */
+.material-symbols-outlined.md-red { color: red; }
+.material-symbols-outlined.md-green { color: green; }
+.material-symbols-outlined.md-blue { color: blue; }
+
+/* Icon Color black and light */
+.material-symbols-outlined.md-black { color: black; }
+.material-symbols-outlined.md-light { color: white; }
