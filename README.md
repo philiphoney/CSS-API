@@ -19,7 +19,7 @@ You need to put this in the head `<head>` firstv
 
 As a second step you also link this code in your head `<head>`
 ```html
-<link rel="stylesheet" href="https://developerweb-online.netlify.app/api/css/google-icon-style.css" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/philiphoney/API@main/css-api/google-icon-style.css" />
 ```
 ###
 And now you can use the `md-` tag to resize the icon
@@ -46,7 +46,7 @@ You can also change the color of an icon yes the tags are listed here
 ###
 You can use this to create a rainbow text, you must first insert this link in the head `<head>`
 ```html
-<link rel="stylesheet" href="https://developerweb-online.netlify.app/api/css/rainbow-text.css" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/philiphoney/API@main/css-api/rainbow-text.css" />
 ```
 
 In the second step you can create a rainbow text
