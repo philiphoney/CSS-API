@@ -62,13 +62,13 @@ With the tag `a-` you can make an animation
 <span class="rainbowtext a-1">rainbow
 </span>
 ```
-<img src="./public/assets/img/rainbow%20%20animation%201.gif" alt="drawing" width="25%"/>
+<img src="./public/assets/img/rainbow%20%20animation%201.gif" alt="drawing" width="48%"/>
 
 ```html
 <span class="rainbowtext a-5">rainbow
 </span>
 ```
-<img src="./public/assets/img/rainbow%20%20animation%205.gif" alt="drawing" width="25%"/>
+<img src="./public/assets/img/rainbow%20%20animation%205.gif" alt="drawing" width="48%"/>
 
 It goes from `a-0` to `a-10`
 
